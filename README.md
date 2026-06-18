@@ -7,4 +7,4 @@ The project was developed using Microsoft Excel and involved data
 cleaning, transformation, analysis, and visualization to support business
 decision-making.
 ## Dashboard Preview
-![Dashboard](FNP dashboard.png)
+![Dashboard](FNP%20dashboard.png)
